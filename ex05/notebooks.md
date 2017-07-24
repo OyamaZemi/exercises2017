@@ -18,3 +18,5 @@
   提案を入れ替えたときの結果も出せるように拡張。マッチングの変化を検証。
 * [齊藤 一織](http://nbviewer.jupyter.org/github/IoriS/MyMatching.jl/blob/master/%E8%AA%B2%E9%A1%8C5.ipynb)  
   @Profileでコードのどこに時間がかかっていたかを調べる。
+* [津島 亮太](http://nbviewer.jupyter.org/github/R-Tsushima/MyMatching.jl/blob/master/src/Deferred_Acceptance_demo3.ipynb)  
+  多対多への拡張と受入側がウソの選好表を示した時に得をするかについて
