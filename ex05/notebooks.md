@@ -16,3 +16,5 @@
 前回のコードをMany-to-Manyに拡張。
 * [高橋　雅士](http://nbviewer.jupyter.org/github/masashitshit/MyMatching.jl/blob/master/Homework%205.ipynb)
 　提案を入れ替えたときの結果も出せるように拡張。マッチングの変化を検証。
+* [齊藤 一織](http://nbviewer.jupyter.org/github/IoriS/MyMatching.jl/blob/master/%E8%AA%B2%E9%A1%8C5.ipynb)
+　@Profileでコードのどこに時間がかかっていたかを調べる。
