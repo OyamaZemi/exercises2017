@@ -20,3 +20,5 @@
   @Profileでコードのどこに時間がかかっていたかを調べる。
 * [津島 亮太](http://nbviewer.jupyter.org/github/R-Tsushima/MyMatching.jl/blob/master/src/Deferred_Acceptance_demo3.ipynb)  
   多対多への拡張と受入側がウソの選好表を示した時に得をするかについて
+[金丸博樹](https://nbviewer.jupyter.org/github/hirokikanamaru/MyMatching.jl/blob/master/MyMatching_demo2.ipynb)
+Deferred Acceptance Matchingの結果が考えられる安定マッチングの中で最も提案側に有利なマッチングになることの検証
