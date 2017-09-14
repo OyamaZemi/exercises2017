@@ -15,8 +15,8 @@
 を Julia に翻訳する．
 
 * 提出方法：[QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks)
-  のフォークに Jupyter notebook プッシュして，本家にプルリクエストを出す
+  のフォーク
+  (`master` ブランチとは異なる新しいブランチを作ること)
+  に Jupyter notebook プッシュして，本家にプルリクエストを出す
 * 締め切り：Aターム始まるまで
 * プルリクエストを出す前に相談しに来てください．
-
-~~(いずれもちょっと前に書いたので，改訂する予定．)~~ 済
